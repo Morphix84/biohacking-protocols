@@ -1,5 +1,6 @@
 # Easy E.coli Transformation for Amateur Biohackers and DIYbio
-by Cathal Garvey, of www.indiebiotech.com
+by [Cathal Garvey][], of www.indiebiotech.com
+
 Creative Commons Attribution, Sharealike: Feel free to modify, share, or publish this work provided that credit is given to me for the original work (with a link to indiebiotech.com) and that the derived work or publication is released under the same license. Share, share alike.
 
 ## Design Considerations
@@ -11,27 +12,27 @@ The following protocol is designed to make it as easy for a beginner to make the
 * Optional autoclave/pressure cooker
 
 ## Minimum equipment;
-* Sterile Glass or Pasteur Pipettes or glass droppers, preferably graduated.
+* Sterile Glass or Pasteur Pipettes or glass droppers, preferably graduated.  
         * If using glass pipettes, you'll also need a pipette pump and a pipette brush, available cheaply on ebay. Glass droppers must be sterilisable by pressure cooker. Disposible pasteur pipettes should be graduated and sterile, pre-wrapped.
 * 30C incubator - achievable with a pet terrarium thermostat and heat-mat in a polystyrene box.
 * Crushed ice
 * Microwave for sterilising media (pressure cooker preferred!)
-* Sterile work area;
+* Sterile work area;  
         * Bunsen burner or blowtorch-facing-up, or
         * Jury-rigged glove-box with inner surface sterilised, or
         * A good HEPA-rated air purifier with a fresh filter pointing at work area.
 * Lab strain, plasmid-free E.coli
 * Desired DNA plasmid
-* Ingredients for basic broth:
+* Ingredients for basic broth:  
         * Soy Protein (or lactose-free casein)
         * Yeast Extract with no added salt (or, balance salt content against your added salt below)
         * Salt, non-iodised, preferably without preservatives
         * Bromelain or Papain digestive tablets, or Meat tenderiser
-* Additional ingredients for TSS-broth:
+* Additional ingredients for TSS-broth:  
         * PEG-3350, sold under a number of brand names as a laxative: Miralax, GoLytely, GlycoLax, etc. Probably available through pharmacy over the counter, or internet.
         * MgSO4, sold as “Epsom Salt” in pharmacies as a bath salt.
 * Fine Sieve, Coffee filters, funnel, cotton wool to clarify broth
-* Glassware
+* Glassware  
         * Preferably actual lab glassware, available from brouwland.com or various ebay sellers. Alternatively;
         * Recycled jam jars for “Flasks”
         * Smaller jars for “test tubes”
@@ -109,6 +110,13 @@ Have an empty jar or two that you can use to dispose of used pipettes, toothpick
 5. After 1:30 hours, turn off the oven and allow it to cool to room temperature.
 6. Remove glassware carefully. Seal jar lids, leave other items in foil wrapping.
 
+## License
+This work is licensed under a [Creative Commons BY-SA 3.0][] license.
+
 ## References:
+### Academic
 The TSS method was adapted from the following source: 
 * “One-step Preparation of Competent Escherichia coli: Transformation and Storage of Bacterial Cells in the Same Solution", Chung, C.T. and Niemela, S.L. and Miller, R.H., Proceedings of the National Academy of Sciences, 1989. Available here: http://www.pnas.org/content/86/7/2172.full.pdf+html
+
+[Creative Commons BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[Cathal Garvey]: http://biohacking.cathalgarvey.me

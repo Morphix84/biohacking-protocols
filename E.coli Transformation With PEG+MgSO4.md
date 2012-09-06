@@ -13,30 +13,32 @@ The following protocol is designed to make it as easy for a beginner to make the
 
 ## Minimum equipment;
 * Sterile Glass or Pasteur Pipettes or glass droppers, preferably graduated.  
-        * If using glass pipettes, you'll also need a pipette pump and a pipette brush, available cheaply on ebay. Glass droppers must be sterilisable by pressure cooker. Disposible pasteur pipettes should be graduated and sterile, pre-wrapped.
+    - If using glass pipettes, you'll also need a pipette pump and a pipette brush, available cheaply on ebay.  
+    - Glass droppers must be sterilisable by pressure cooker.  
+    - Disposible pasteur pipettes should be graduated and sterile, pre-wrapped.
 * 30C incubator - achievable with a pet terrarium thermostat and heat-mat in a polystyrene box.
 * Crushed ice
 * Microwave for sterilising media (pressure cooker preferred!)
 * Sterile work area;  
-        * Bunsen burner or blowtorch-facing-up, or
-        * Jury-rigged glove-box with inner surface sterilised, or
-        * A good HEPA-rated air purifier with a fresh filter pointing at work area.
+    - Bunsen burner or blowtorch-facing-up, or  
+    - Jury-rigged glove-box with inner surface sterilised, or  
+    - A good HEPA-rated air purifier with a fresh filter pointing at work area.
 * Lab strain, plasmid-free E.coli
 * Desired DNA plasmid
 * Ingredients for basic broth:  
-        * Soy Protein (or lactose-free casein)
-        * Yeast Extract with no added salt (or, balance salt content against your added salt below)
-        * Salt, non-iodised, preferably without preservatives
-        * Bromelain or Papain digestive tablets, or Meat tenderiser
+    - Soy Protein (or lactose-free casein)  
+    - Yeast Extract with no added salt (or, balance salt content against your added salt below)  
+    - Salt, non-iodised, preferably without preservatives  
+    - Bromelain or Papain digestive tablets, or Meat tenderiser
 * Additional ingredients for TSS-broth:  
-        * PEG-3350, sold under a number of brand names as a laxative: Miralax, GoLytely, GlycoLax, etc. Probably available through pharmacy over the counter, or internet.
-        * MgSO4, sold as “Epsom Salt” in pharmacies as a bath salt.
+    - PEG-3350, sold under a number of brand names as a laxative: Miralax, GoLytely, GlycoLax, etc. Probably available through pharmacy over the counter, or internet.  
+    - MgSO4, sold as “Epsom Salt” in pharmacies as a bath salt.
 * Fine Sieve, Coffee filters, funnel, cotton wool to clarify broth
 * Glassware  
-        * Preferably actual lab glassware, available from brouwland.com or various ebay sellers. Alternatively;
-        * Recycled jam jars for “Flasks”
-        * Smaller jars for “test tubes”
-        * Wide jars or glass ramekins for “Petri Dishes”.
+    - Preferably actual lab glassware, available from brouwland.com or various ebay sellers. Alternatively;  
+    - Recycled jam jars for “Flasks”  
+    - Smaller jars for “test tubes”  
+    - Wide jars or glass ramekins for “Petri Dishes”.
 
 ## Transforming E.coli by a modified TSS method:
 1. Prepare nutrient broth for E.coli (1), and set some aside to make TSS-broth (2).

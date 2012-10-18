@@ -14,9 +14,9 @@ These protocols will likely form the basis of an all-in-one guide to biohacking,
 So far, the following protocols are included:
 * Several "Miniprep"-scale plasmid purifications
 * Transformation of E.coli with PEG-3350 (Common Laxative) and MgSO4 (Common bath-salt)
+* Transformation of B.subtilis by natural competence
 
 Planned for revision or addition:
-* Transformation of B.subtilis by natural competence
 * Isolation of Lysozyme from chicken egg using Isopropanol
 * Isolation of agarose from food-grade agar
 * Crude "boiling" miniprep method: easier to perform, likely to be worse purity

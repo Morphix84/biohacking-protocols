@@ -1,10 +1,15 @@
-# Easy E.coli Transformation for Amateur Biohackers and DIYbio
+# Easy _E.coli_ Transformation for Amateur Biohackers and DIYbio
 by [Cathal Garvey][], of www.indiebiotech.com
 
 Creative Commons Attribution, Sharealike: Feel free to modify, share, or publish this work provided that credit is given to me for the original work (with a link to indiebiotech.com) and that the derived work or publication is released under the same license. Share, share alike.
 
+## Preamble
+_E.coli_ is generally considered an easy species to work with and manipulate at a genetic level. There are many protocols available for genetic transformation (~manipulation) of _E.coli_, but most require the use of chilled centrifuges, temperature-controlled water baths, or electroporators that are not easily acquired by amateurs or biohackers.
+
+This protocol is a method for generating *chemically competent* _E.coli_. By "competent", we mean "ready for genetic transformation". This method is highly convenient compared to calcium-salt based methods as it has fewer steps, is easier to prepare, and can technically be performed without any equipment that cannot be found in a local pharmacy or supermarket.
+
 ## Design Considerations
-The following protocol is designed to make it as easy for a beginner to make their first GMO bacterium as possible. With that in mind, it attempts to fulfil the following requirements:
+The following protocol is designed to make it as easy for a beginner to make their first GM _E.coli_ as possible. With that in mind, it attempts to fulfil the following requirements:
 * Non-shaking incubation
 * Medium-volume liquid handling (no micropipettes)
 * No expensive reagents (no DMSO)
@@ -40,11 +45,11 @@ The following protocol is designed to make it as easy for a beginner to make the
     - Smaller jars for “test tubes”
     - Wide jars or glass ramekins for “Petri Dishes”.
 
-## Transforming E.coli by a modified TSS method:
-1. Prepare nutrient broth for E.coli (1), and set some aside to make TSS-broth (2).
+## Transforming _E.coli_ by a modified TSS method:
+1. Prepare nutrient broth for _E.coli_ (1), and set some aside to make TSS-broth (2).
 2. Sterilise both in a microwave (3).
 3. Under sterile conditions, place enough growth broth in a sterile glass container so that it is 3-5mm deep.
-4. Under sterile conditions (4), inoculate the shallow broth with some lab-strain, plasmid-free E.coli.
+4. Under sterile conditions (4), inoculate the shallow broth with some lab-strain, plasmid-free _E.coli_.
 5. Incubate the cells for 3-5 hours at 30C or 37C, until they start to look cloudy, swirling them occasionally (every 30mins or hour).
 6. If you have a centrifuge, then centrifuge 2mls of the cells gently (less than 2000g, bottom setting on a dremelfuge) to separate them from the broth, then resuspend them in 0.2mls of TSS-broth.
 7. If you have no centrifuge, take 0.2mls of cells and mix them with 0.2mls of 2x concentrated TSS-broth.
